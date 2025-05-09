@@ -18,7 +18,7 @@ This project is a simple static website built using HTML and CSS. It demonstrate
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/your-repo-name.git
+git clone https://github.com/KHIZER2567/cake-shop.git
 cd your-repo-name
 
 open index.html  # Mac
